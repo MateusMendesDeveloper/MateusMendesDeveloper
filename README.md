@@ -8,8 +8,9 @@ Estou começando minha jornada no Desenvolvimento Web! Atualmente, estou focado 
 ---
 ## Entre em contato!
 
-[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://katherineoelsner.com/)
+[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusmendesdev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-mendes-mendes-4aa386340/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusmendesdeveloper@gmail.com)
 
 ---
 ## 🛠 Habilidades
