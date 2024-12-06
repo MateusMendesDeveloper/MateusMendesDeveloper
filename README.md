@@ -8,9 +8,9 @@ Estou começando minha jornada no Desenvolvimento Web! Atualmente, estou focado 
 ---
 ## Entre em contato!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusmendesdev/?utm_source=github&utm_medium=referral&utm_campaign=github_profile){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuperfil/?utm_source=github&utm_medium=referral&utm_campaign=github_profile){:target="_blank"}
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-mendes-mendes-4aa386340/?utm_source=github&utm_medium=referral&utm_campaign=github_profile){:target="_blank"}
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá%20Mateus,%20...%20){:target="_blank"}
 
 ---
 ## 🛠 Habilidades
